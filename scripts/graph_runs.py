@@ -47,7 +47,7 @@ DARK = {
 SERIES_ORDER = ["gzip-ng -p", "pigz -p", "bgzip -@", "migz",
                 "gzip-ng", "minigzip", "gzip", "pigzpp -p"]
 
-REPO_URL = "https://github.com/nmoinvaz/gzipbench"
+REPO_URL = "https://github.com/zlib-ng/gzipbench"
 
 
 MODE_ORDER = ["normal", "rsyncable", "independent"]

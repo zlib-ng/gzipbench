@@ -520,5 +520,5 @@
 <text x="16.0" y="1682.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal">Apple M5, 10 cpus, silesia.tar (202 MiB), Nathans-MacBook-Air-M5-2.local, 2026-09-05</text>
 <text x="16.0" y="1652.0" font-size="10" fill="#c98500" text-anchor="start" font-weight="normal">⚠</text>
 <text x="30.0" y="1652.0" font-size="10" fill="#52514e" text-anchor="start" font-weight="normal">14 benchmarks with cv above 3%</text>
-<a href="https://github.com/nmoinvaz/gzipbench"><text x="1064" y="1682" font-size="10" fill="#52514e" text-anchor="end" text-decoration="underline">github.com/nmoinvaz/gzipbench</text></a>
+<a href="https://github.com/zlib-ng/gzipbench"><text x="1064" y="1682" font-size="10" fill="#52514e" text-anchor="end" text-decoration="underline">github.com/zlib-ng/gzipbench</text></a>
 </svg>
